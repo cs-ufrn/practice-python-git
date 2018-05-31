@@ -11,7 +11,6 @@
 # CS UFRN 2018
 ###################################################################################
 
-
 def display_calculator():
     ''' Interact with the user, showing a command-line menu and
         receiving input for operations and operands. '''
@@ -76,5 +75,4 @@ def multiply_matrices(matrix1, matrix2):
 # cos_approx
 #
 # Takes a value X and a float E, and computes an approximation for cos(X) with maximum error E.
-
 
