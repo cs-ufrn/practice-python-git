@@ -16,7 +16,6 @@ def display_calculator():
         receiving input for operations and operands. '''
     pass
 
-
 def mean(values):
     ''' Computes the mean of a given list of numbers.'''
     pass
