@@ -17,11 +17,9 @@ def display_calculator():
     pass
 
 def mean(values):
-    ''' Computes the mean of a given list of numbers.'''
     pass
 
 def median(values):
-    ''' Computes the median of a given list of numbers. '''
     pass
 
 # mode 
@@ -49,18 +47,12 @@ def median(values):
 # Takes an integer N and a list L, and computes the sum of the N minimum numbers in L.
 
 def validate_matrix(lists):
-    ''' Checks if a list of lists is in fact a matrix:
-        a matrix must have lines with the same number of columns,
-        but a list of lists may disobey such property.
-    '''
     pass
 
 def sum_matrices(matrix1, matrix2):
-    ''' Computes the sum of two matrices. '''
     pass
 
 def multiply_matrices(matrix1, matrix2):
-    ''' Computes the product of two matrices. '''
     pass
 
 # exp_approx
