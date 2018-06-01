@@ -1,4 +1,4 @@
 # Introduction to Git and Python
 
-This repository stores Python code to be developed in teams.
+This repository stores Python activities to be solved in teams using Git.
 
