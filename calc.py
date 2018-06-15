@@ -38,13 +38,17 @@ def median(values):
 #
 # Takes an integer N and a list L, and computes the N minimum numbers in L.
 
-# sum_n_max_numbers
-#
-# Takes an integer N and a list L, and computes the sum of the N maximum numbers in L.
+def sum_n_max_numbers(N, l):
+	# Takes an integer N and a list L, and computes the sum of the N maximum numbers in L.
+	l = sorted(l, reverse=True)
+	l = l[0:N]
+	return sum(l)
 
-# sum_n_min_numbers
-#
-# Takes an integer N and a list L, and computes the sum of the N minimum numbers in L.
+def sum_n_min_numbers(N, l):
+	# Takes an integer N and a list L, and computes the sum of the N minimum numbers in L.
+	l = sorted(l)
+	l = l[0:N]
+	return sum(l)
 
 def validate_matrix(lists):
     pass
