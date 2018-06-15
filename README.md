@@ -6,7 +6,7 @@ A simple command-line calculator to a internal training of git and python with m
 
 To execute the calculator you may have [git](https://git-scm.com/) and [python3](https://www.python.org/download/releases/3.0/?) installed.
 
-For debian-based distros you only have to execute the command `sudo apt install git python3` just changing the package manager.
+For debian-based distros you only have to execute the command `sudo apt install git python3` just changing to your package manager.
 
 After that, to clone the repository just type: `git clone https://github.com/cs-ufrn/practice-python-git.git`
 
